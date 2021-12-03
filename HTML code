@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>DSA Roadmap </title>
+</head>
+<body>
+	<header>
+	<div id="header">
+	<div > 
+		<a href="https://leetcode.com/explore/">
+		<img id="header_image" src="https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif" alt="Pls Check Your Internet">
+	    </a>
+	</div>
+	<div id="site-disc">
+	<a id="headerlink" href="https://www.youtube.com/watch?v=ePrJvydQzys">Roadmap for Data Structure and Algorithms</a>
+	<p> Sunny Jha Official Blog </p>
+	</div>
+	<div ><img id="image" src="https://miro.medium.com/max/2000/1*2rKGJ6h1regwmfMcty3SLw.png" alt="Pls Check Your Internet"> </div>
+    </div>
+    </header>
+    <b>
+    	<div id="content">
+    <main>
+    	<!--<header id="blog-heading"  >Data Structure And Algorithms</header> -->
+    	<div id="author">
+                         <img src="/Users/sunnyjha1512002gmail.com/Downloads/sunnyjhapic.jpg">
+                         <p>Sunny Jha</p>
+                         <p>Website Developer</p>
+                     </div>
+
+        <article id="blog-content">
+        	<div id="blog-image-container">
+        		<div id="views">
+        			<img src="https://png.pngtree.com/png-vector/20190909/ourmid/pngtree-signal-icon-isolated-png-image_1727828.jpg">
+                        <span>Views:</span>
+                        <span>1,137</span>
+     
+        		</div>
+        		<img id="views-image" src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/introduction-to-data-structure-classification-6180ea2dcdae970e.png">
+        	</div>
+ 
+        	<div id="programming-language">
+        	<p> The very 1st step you have to do is, choose a programming language, either Java or C++ (or it's up to you which language you want to learn).</p>
+
+        	<ul>
+        		<p>
+        		<b>🎯 Now, start learning the language 1st .......</b>
+        		</p>
+        		<li>📌 Basic Syntax</li>
+        		<li>📌 Data Types</li>
+        		<li>📌 Operators, Variables, functions</li>
+        		<li>📌 Conditional Statement, loops</li>
+        		<li>📌 And the most important OOP(Object-Oriented Programming)</li>
+        		<li>📌 Introduction to Array, Strings, Pointers</li>
+
+        	</div>	
+       		<div id="Time-Complexity">   <p>🎯  Move to Time and Space Complexity ....... </p>
+        		<p>Notations:</p>
+        		<li>📌 Big-O Notation (Ο) – Big O notation specifically describes worst case scenario.</li>
+        		<li>📌 Omega Notation (Ω) – Omega(Ω) notation specifically describes best case scenario.</li>
+        		<li>📌 Theta Notation (θ) – This notation represents the average complexity of an algorithm.</li>
+        		<p>🎯 Then Learn About:</p>
+        		<li>O(1)</li>
+        		<li>O(log N)</li>
+        		<li>O(N log N)</li>
+        		<li>O(N)</li>
+        		<li>O(N^2)</li>
+        		<li>O(2^N)</li>
+        		<li>O(N!)</li>
+        		<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--arxMPHsh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--HpbSFDgV--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/https://secureservercdn.net/160.153.137.40/662.aa9.myftpupload.com/wp-content/uploads/2019/11/Time-Complexity.png"><br>
+        		<a href="https://github.com/shivaa511/My-Books/blob/master/Data%20Structures%20and%20Algorithms%20Made%20Easy%20in%20Java%20-%20Narasimha%20Karumanchi.pdf">📖Data Structure and Algorithms Made Easy By Narashima Karumanchi</a>
+        	</div>	
+        	<div id="DSA">
+        		<p id="dsa-heading">🎯 Now Learn Basic Data Structure</p>
+        		<p>Types of Data Structures</p>
+        		<p>Linear Data Structures:</p>
+        		<li>📌 Array</li>
+        		<li>📌 String</li>
+        		<li>📌 Linked Kist</li>
+        		<li>📌 Stack</li>
+        		<li>📌 Queue</li>
+        		<li>📌 Hash Table etc.....</li>
+        		<p>Non-Linear Data Structures:</p>
+        		<li>📌 Tree</li>
+        		<li>📌 graph</li>
+        		<li>📌 heap etc...</li><br>
+        		<a href="https://www.geeksforgeeks.org/data-structures/?ref=shm">👨‍🏫You can learn these from here</a>
+        		<p>Pick those DS one by one and start to learn those.Now, you can explore or learn <a href="https://www.cplusplus.com/reference/stl/?kw=stl">Collection frameworks or STL</a>.</p>
+        		<p>🎯 In mean time pick any one of these <a href="https://www.hackerrank.com/">HackerRank</a>, <a href="https://www.hackerearth.com/?utm_feeditemid=&utm_device=c&utm_term=hackerearth&utm_source=google&utm_medium=paid&utm_campaign=&hsa_cam=15215950032&hsa_grp=129139117666&hsa_mt=e&hsa_src=g&hsa_ad=560288764534&hsa_acc=8660149232&hsa_net=adwords&hsa_kw=hackerearth&hsa_tgt=kwd-155448791077&hsa_ver=3&utm_feeditemid=&utm_device=c&utm_term=hackerearth&utm_source=google&utm_medium=paid&utm_campaign=%5BRec%5D+Branded+Keywords&hsa_cam=15215950032&hsa_grp=129139117666&hsa_mt=e&hsa_src=g&hsa_ad=560288764534&hsa_acc=8660149232&hsa_net=adwords&hsa_kw=hackerearth&hsa_tgt=kwd-155448791077&hsa_ver=3&gclid=Cj0KCQiAy4eNBhCaARIsAFDVtI1bAmqla7YOnCq6xQ0SJQ48ML5jWNM0cY_GxvMx_jjUTD9Q08vkwUMaAufrEALw_wcB">HackerEarth</a>, <a href="https://leetcode.com/">Leetcode</a>, <a href="https://www.codechef.com/">Codechef</a> platform for solving the problems and test your understanding on those topics. I will suggest you that just complete one topic in DSA and try to solve some questions(solve topic wise). In this way, you will get more productive results to grasp the concept!</p>
+        	</ul>
+        	</div>
+
+        	<p id="second-heading">Now Learn Some Basic Algorithms....</p>
+        	<ol>
+        		 <p>🎯 Sorting Algorithms:</p>
+        		 <li>Bubble Sort</li>
+        		 <li>Selection Sort</li>
+        		 <li>Insertion Sort</li>
+        		 <li>Merge Sort</li>
+        		 <li>Quick Sort</li>
+        		 <li>Heap Sort</li>
+        		 <li>Count Sort etc....</li>
+        		 <p><a href="https://www.geeksforgeeks.org/sorting-algorithms/">👨‍🏫Learn it from here</a></p>
+        	</ol>
+        	<ol>
+        		<p>🎯 searching Algorithms:</p>
+        		 <li>Linear Search</li>
+        		 <li>Binary Search</li>
+        		 <p><a href="https://www.geeksforgeeks.org/searching-algorithms/">👨‍🏫Learn it from here</a></p>
+        	</ol>
+        	<ol>
+        		<p>🎯 Recursion:</p>
+        		<p>(Grasp the concept very clearly)
+                           It is a technique in which the function call itself again and again until the base case occurs.</p>
+                           <p><a href="https://www.geeksforgeeks.org/recursion/?ref=gcse">👨‍🏫Learn it from here</a></p>
+        	</ol>
+        	<ol>
+        		<p>🎯 Backtracking:</p>
+        		<p>It is itself a recursion, but here it has some additional conditions which makes it more efficient.
+
+                         Backtracking is an algorithmic-technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time (by time, here, is referred to the time elapsed till reaching any level of the search tree).</p>
+                       <p>🎯 Some Standard Problems:</p>
+                       <li><a href="https://www.geeksforgeeks.org/sudoku-backtracking-7/?ref=gcse">Sudoku solver problem</a></li>
+                       <li><a href="https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/?ref=gcse">Rat in Maze</a></li>
+                       <li><a href="https://www.geeksforgeeks.org/combinational-sum/?ref=gcse"> Combinational sum</a></li>
+                       <li><a href="https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/?ref=gcse">N Queen Problem</a></li>
+        	</ol>
+        	<ol>
+        	<p>🎯 Greedy Approch</p>
+        	<p>Greedy is an algorithmic paradigm that builds up a solution piece by piece, always choosing the next piece that offers the most obvious and immediate benefit. So the problems where choosing locally optimal also leads to global solution are best fit for Greedy.
+                For example, consider the Fractional Knapsack Problem.</p>
+                <p><a href="https://www.geeksforgeeks.org/greedy-algorithms-general-structure-and-applications/?ref=gcse">👨‍🏫Learn it from here</a></p>
+                </ol>
+                <ol>
+                	<p>🎯 Dynamic Programming </p>
+                	<p> DP = Recursion + Some Memory</p>
+                	<p>It has two approches:</p>
+                	<li>Memoization (Top Down👇)</li>
+                	<li>Tabulation (Bottom UP☝️)</li>
+                	<p><a href="https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go">👨‍🏫Learn it from here</a></p>
+                </ol>
+                <ol>
+                	<p>🎯 Bit Manipulation</p>
+                	<li>AND (&)</li>
+                	<li>OR (|)</li>
+                	<li>XOR (^)</li>
+                	<li>NOT (~)</li>
+                	<li>Left Shift (<<)</li>
+                	<li>Right Shift(>>)</li>
+                	<p><a href="https://www.geeksforgeeks.org/bits-manipulation-important-tactics/">👨‍🏫Learn it from here</a></p>
+                </ol>
+                <ul id="tips">
+                	<p>Some Tips: </p>
+                	<p><li>While solving problems if you don't come up with solution with spending at most 1 hour, I will suggest you leave that question as for that time no need to spend more time on that!</li></p>
+                	<p><li> Try that question another day or some days later. If still stuck, then you can refer to some editorials or hints.</li></p>
+                	<p><li>One thing is very important is that suppose you successfully solved some questions 😀. Congratulations, but still I will suggest going to discussion and see other's solution as well. It will be more insightful, and you can get to know different approaches.</li></p>
+                	<p>
+                	<li>And suppose you are in that situation that you can't solve the problem or even seeing the solution, you are unable to think that logic which are used in the solution. So, don't be panic and don't depress. Just dry run the solution, it really helps(Personally it helps me a lot 😊).</li>
+                	</p>
+                	<p>
+                	<li>If still you are thinking that the concept is not so much clear then try to write on paper what you understand the concept via dry running! (Also, you can refer to video lecture</li>
+                	</p>
+                </ul>
+                <p id="ending">
+                <p>I hope it helps you😊</p>
+                <p>Thanxs for Reading 🧡</p>
+                </p>
+       </article>
+       
+    </main>
+    <aside>
+            <section id="subscription" class="widget">
+                <h4 class="widget-title">Subscribe now to stay updated with new technology trends</h4>
+
+                <div id="subscribe-form">
+                    <form action="">
+                        <label for="input-name">Name</label>
+                        <input id="input-name" name="name" type="text">
+                        <label for="input-email">Email *</label>
+                        <input id="input-email" name="input-email" type="text" required>
+                        <button class="sub-btn" type="submit">SUBSCRIBE</button>
+                    </form>
+                </div>
+            </section>
+            <section id="search" class="widget">
+                <form>
+                    <input type="text" name="" placeholder="search...">
+                    <button type="submit"><img src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000000013_1549319004_search-icon.png"></button>
+                </form>
+            </section>
+            <section id="recent-posts" class="widget">
+                <h4 class="widget-title">Recent Posts</h4>
+
+                <ul>
+                    <li>
+                        <p><a href="">Guiding path for a fresher to start their career in software programming/development</a></p>
+                    </li>
+                    <li>
+                        <p><a href="">The undisputed truth about emotional support animal rhode island that the experts don't want you to hear</a></p>
+
+                    </li>
+                    <li>
+                        <p><a href="">The Best Plan to use for Emotional Support Animal Oregon</a></p>
+
+                    </li>
+                    <li>
+                        <p><a href="">How to find Emotional Support Animal Illiios Online</a></p>
+
+                    </li>
+                    <li>
+                        <p><a href="">Career opportunities after mastering Python</a></p>
+
+                    </li>
+                </ul>
+            </section>
+
+            <section id="recent-comments" class="widget">
+                <h4 class="widget-title">Recent Comments</h4>
+
+                <ul>
+                    <li>
+                        <p>
+                            <a class="name" href="">A V Yogesh Rao</a>
+                            <span>on</span>
+                            <a href="">Get ready for the ultimate summer scholarship test!</a>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <a class="name" href="">Strony Internetowe</a>
+                            <span>on</span>
+                            <a href="">Recursion(The good, the bad and the not so ugly)</a>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <a class="name" href="">Philip Herb</a>
+                            <span>on</span>
+                            <a href="">Recursion(The good, the bad and the not so ugly)</a>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <a class="name" href="">Pascher Vigra</a>
+                            <span>on</span>
+                            <a href="">Recursion(The good, the bad and the not so ugly)</a>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <a class="name" href="">Ananya Burman</a>
+                            <span>on</span>
+                            <a href="">Code your way through Competitive programming!</a>
+                        </p>
+                    </li>
+                </ul>
+            </section>
+
+            <section id="categories" class="widget">
+                <h4 class="widget-title">Categories</h4>
+
+                <ul>
+                    <li><a href="">Android</a></li>
+                    <li><a href="">General</a></li>
+                    <li><a href="">Interview Experiences</a></li>
+                    <li><a href="">Machine Learning</a></li>
+                    <li><a href="">Ruby</a></li>
+                    <li><a href="">Uncategorized</a></li>
+                    <li><a href="">Web Development</a></li>
+                </ul>
+            </section>
+        </aside>
+        <div id="social">
+                <a id="facebook" class="social-btn" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fblog.codingninjas.in%2F2018%2F03%2F13%2Fa-step-by-step-walk-through-of-your-first-html-page%2F"><img class="social-img" src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000000014_1549330414_facebook-logo.png" alt="fb"></a>
+
+                <a id="linkedin" class="social-btn" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&title=Best+Coding+Practices+for+Hassle-free+Programming&url=http%3A%2F%2Fblog.codingninjas.in%2F2018%2F04%2F02%2Fbest-coding-practices-for-hassle-free-programming%2F"><img class="social-img" src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000000015_1549330433_linkedin-logo.png" alt="in"></a>
+
+                <a id="twitter" class="social-btn" target="_blank" href="https://twitter.com/share?url=http%3A%2F%2Fblog.codingninjas.in%2F2018%2F04%2F02%2Fbest-coding-practices-for-hassle-free-programming%2F&text=Best+Coding+Practices+for+Hassle-free+Programming"><img class="social-img" src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000000016_1549330452_twitter-logo.png" alt="twi"></a>
+
+                <a id="gmail" class="social-btn" target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fblog.codingninjas.in%2F2018%2F04%2F02%2Fbest-coding-practices-for-hassle-free-programming%2F"><img class="social-img" src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000000017_1549330467_google-logo.png" alt="g+"></a>
+
+                <a id="whatsapp" class="social-btn" target="_blank" href="whatsapp://send?text=http%3A%2F%2Fblog.codingninjas.in%2F2018%2F04%2F02%2Fbest-coding-practices-for-hassle-free-programming%2F"><img class="social-img" src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000000018_1549330485_whatsapp-logo.png" alt="w-app"></a>
+
+                <a id="mail" class="social-btn" target="_blank" href="mailto:adresse@example.com?subject=7%20best%20coding%20practices%20to%20follow%20%7C%20blog.codingninjas.in&body=http%3A%2F%2Fblog.codingninjas.in%2F2018%2F04%2F02%2Fbest-coding-practices-for-hassle-free-programming%2F"><img class="social-img" src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000000019_1549330510_mail-logo.png" alt="mail"></a>
+            </div>
+
+
+   
+</div>
+</body>
+</html>
+
+
+
+
+
